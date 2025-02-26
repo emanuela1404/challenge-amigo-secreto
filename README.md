@@ -15,5 +15,21 @@ El juego del sorteo amigo secreto es una aplicación en desarrollo donde primero
 
 ## Funcionalidad del proyecto:
 
-    -`Permite ingresar nombres a una lista para posteriormente realizar el sorteo y obtener el nombre que corresponde al amigo secreto`.
-    
+   - `Funciones`: Permite ingresar nombres a una lista para posteriormente realizar el sorteo y obtener el nombre que corresponde al amigo secreto.
+
+## Acceso al proyecto
+[click aqui](https://github.com/emanuela1404/challenge-amigo-secreto_esp-main.git)
+
+## Tecnologìas utilizadas
+
+- Javascript
+- Html
+  VisualStudioCode
+- CSS
+
+## Autor
+
+[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>emanuela1404</sub>](https://github.com/emanuela1404)
+| :---: | 
+
+
