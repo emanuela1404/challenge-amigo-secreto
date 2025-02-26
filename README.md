@@ -29,7 +29,6 @@ El juego del sorteo amigo secreto es una aplicación en desarrollo donde primero
 
 ## Autor
 
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>emanuela1404</sub>](https://github.com/emanuela1404)
-| :---: | 
+[<img src="https://avatars.githubusercontent.com/u/emanuel1404?v=4" width=115><br><sub>emanuela1404</sub>](https://github.com/emanuela1404)
 
 
