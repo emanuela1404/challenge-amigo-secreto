@@ -21,7 +21,7 @@ El juego del sorteo amigo secreto es una aplicación en desarrollo donde primero
 [click aqui](https://github.com/emanuela1404/challenge-amigo-secreto_esp-main.git)
  
 ## Abrir proyecto
-[click aqui](https://emanuela1404.github.io/challenge-amigo-secreto/).
+[click aqui](https://emanuela1404.github.io/challenge-amigo-secreto/)
 ## Tecnologìas utilizadas
 
 - Javascript
